@@ -18,3 +18,7 @@ Performance Evaluation: Evaluates model accuracy and other metrics to optimize s
 
 Thanks to IBM for the course and Watson AI Library, and to open-source libraries and datasets enabling accessible NLP and sentiment analysis.
 
+![2](https://github.com/user-attachments/assets/a7b99fab-2304-4d03-aa07-eadae3600640)
+
+![1](https://github.com/user-attachments/assets/7105b4b6-6d16-462c-90cc-2fa7b21d020e)
+
